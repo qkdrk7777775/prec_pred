@@ -1,0 +1,295 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2020-12-02T00:51:08.041683Z",
+     "iopub.status.busy": "2020-12-02T00:51:08.040675Z",
+     "iopub.status.idle": "2020-12-02T00:51:08.045410Z",
+     "shell.execute_reply": "2020-12-02T00:51:08.044856Z",
+     "shell.execute_reply.started": "2020-12-02T00:51:08.041612Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "import time"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2020-12-02T00:51:17.049777Z",
+     "iopub.status.busy": "2020-12-02T00:51:17.049580Z",
+     "iopub.status.idle": "2020-12-02T00:51:20.053145Z",
+     "shell.execute_reply": "2020-12-02T00:51:20.052570Z",
+     "shell.execute_reply.started": "2020-12-02T00:51:17.049751Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "time.sleep(3)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2020-12-02T00:51:22.041276Z",
+     "iopub.status.busy": "2020-12-02T00:51:22.040921Z",
+     "iopub.status.idle": "2020-12-02T00:51:25.048389Z",
+     "shell.execute_reply": "2020-12-02T00:51:25.047649Z",
+     "shell.execute_reply.started": "2020-12-02T00:51:22.041237Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "time.sleep(3)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2020-12-02T00:51:28.037456Z",
+     "iopub.status.busy": "2020-12-02T00:51:28.037264Z",
+     "iopub.status.idle": "2020-12-02T00:51:31.043356Z",
+     "shell.execute_reply": "2020-12-02T00:51:31.042632Z",
+     "shell.execute_reply.started": "2020-12-02T00:51:28.037437Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "time.sleep(3)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2020-12-02T00:51:31.050615Z",
+     "iopub.status.busy": "2020-12-02T00:51:31.050404Z",
+     "iopub.status.idle": "2020-12-02T00:51:34.055981Z",
+     "shell.execute_reply": "2020-12-02T00:51:34.055321Z",
+     "shell.execute_reply.started": "2020-12-02T00:51:31.050593Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "time.sleep(3)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2020-12-02T00:51:34.062624Z",
+     "iopub.status.busy": "2020-12-02T00:51:34.062434Z",
+     "iopub.status.idle": "2020-12-02T00:51:37.068721Z",
+     "shell.execute_reply": "2020-12-02T00:51:37.068031Z",
+     "shell.execute_reply.started": "2020-12-02T00:51:34.062599Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "time.sleep(3)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2020-12-02T00:51:37.075735Z",
+     "iopub.status.busy": "2020-12-02T00:51:37.075520Z",
+     "iopub.status.idle": "2020-12-02T00:51:40.080253Z",
+     "shell.execute_reply": "2020-12-02T00:51:40.079552Z",
+     "shell.execute_reply.started": "2020-12-02T00:51:37.075708Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "time.sleep(3)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 31,
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2020-12-02T00:57:38.043473Z",
+     "iopub.status.busy": "2020-12-02T00:57:38.043018Z",
+     "iopub.status.idle": "2020-12-02T00:57:41.048907Z",
+     "shell.execute_reply": "2020-12-02T00:57:41.047678Z",
+     "shell.execute_reply.started": "2020-12-02T00:57:38.043438Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "import datetime\n",
+    "a=datetime.datetime.now()\n",
+    "a.minute%5==0\n",
+    "time.sleep(3)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 30,
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2020-12-02T00:57:25.043640Z",
+     "iopub.status.busy": "2020-12-02T00:57:25.043385Z",
+     "iopub.status.idle": "2020-12-02T00:57:25.047575Z",
+     "shell.execute_reply": "2020-12-02T00:57:25.047066Z",
+     "shell.execute_reply.started": "2020-12-02T00:57:25.043613Z"
+    }
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "True"
+      ]
+     },
+     "execution_count": 30,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2020-12-01T16:34:44.036159Z",
+     "iopub.status.busy": "2020-12-01T16:34:44.035756Z",
+     "iopub.status.idle": "2020-12-01T16:34:44.042960Z",
+     "shell.execute_reply": "2020-12-01T16:34:44.042035Z",
+     "shell.execute_reply.started": "2020-12-01T16:34:44.036116Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "import cx_Oracle\n",
+    "\n",
+    "\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import os\n",
+    "os.putenv('NLS_LANG', 'KOREAN_KOREA.KO16MSWIN949')\n",
+    "\n",
+    "\n",
+    "출처: https://data-make.tistory.com/124 [Data Makes Our Future]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2020-12-01T16:36:05.040448Z",
+     "iopub.status.busy": "2020-12-01T16:36:05.039450Z",
+     "iopub.status.idle": "2020-12-01T16:36:05.054696Z",
+     "shell.execute_reply": "2020-12-01T16:36:05.053488Z",
+     "shell.execute_reply.started": "2020-12-01T16:36:05.040374Z"
+    }
+   },
+   "outputs": [
+    {
+     "ename": "DatabaseError",
+     "evalue": "DPI-1047: Cannot locate a 64-bit Oracle Client library: \"libclntsh.so: cannot open shared object file: No such file or directory\". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[0;31mDatabaseError\u001b[0m                             Traceback (most recent call last)",
+      "\u001b[0;32m<ipython-input-3-a68f02102637>\u001b[0m in \u001b[0;36m<module>\u001b[0;34m\u001b[0m\n\u001b[0;32m----> 1\u001b[0;31m \u001b[0mcon1\u001b[0m \u001b[0;34m=\u001b[0m \u001b[0mcx_Oracle\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0mconnect\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0;34m\"ducj/ducj@ducj3.iptime.org:1521/whckdwp1!\"\u001b[0m\u001b[0;34m)\u001b[0m   \u001b[0;31m# cmd mode의 ipconfig 명령어로 IP 확인\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m",
+      "\u001b[0;31mDatabaseError\u001b[0m: DPI-1047: Cannot locate a 64-bit Oracle Client library: \"libclntsh.so: cannot open shared object file: No such file or directory\". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help"
+     ]
+    }
+   ],
+   "source": [
+    "con1 = cx_Oracle.connect(\"scott/oracle@192.168.0.00:1521/orcl\")   # cmd mode의 ipconfig 명령어로 IP 확인"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2020-12-01T16:40:17.040029Z",
+     "iopub.status.busy": "2020-12-01T16:40:17.039533Z",
+     "iopub.status.idle": "2020-12-01T16:40:17.053675Z",
+     "shell.execute_reply": "2020-12-01T16:40:17.052754Z",
+     "shell.execute_reply.started": "2020-12-01T16:40:17.039994Z"
+    }
+   },
+   "outputs": [
+    {
+     "ename": "DatabaseError",
+     "evalue": "DPI-1047: Cannot locate a 64-bit Oracle Client library: \"libclntsh.so: cannot open shared object file: No such file or directory\". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[0;31mDatabaseError\u001b[0m                             Traceback (most recent call last)",
+      "\u001b[0;32m<ipython-input-4-bc5eafc5a765>\u001b[0m in \u001b[0;36m<module>\u001b[0;34m\u001b[0m\n\u001b[0;32m----> 1\u001b[0;31m \u001b[0mconnect\u001b[0m \u001b[0;34m=\u001b[0m \u001b[0mcx_Oracle\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0mconnect\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0;34m\"ducj\"\u001b[0m\u001b[0;34m,\u001b[0m \u001b[0;34m\"whckdwp1\"\u001b[0m\u001b[0;34m,\u001b[0m \u001b[0;34m\"ducj3.iptime.org:1521/orcl\"\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m",
+      "\u001b[0;31mDatabaseError\u001b[0m: DPI-1047: Cannot locate a 64-bit Oracle Client library: \"libclntsh.so: cannot open shared object file: No such file or directory\". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help"
+     ]
+    }
+   ],
+   "source": [
+    "connect = cx_Oracle.connect(\"ducj\", \"whckdwp1\", \"ducj3.iptime.org:1521/orcl\")\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.6.11"
+  },
+  "widgets": {
+   "application/vnd.jupyter.widget-state+json": {
+    "state": {},
+    "version_major": 2,
+    "version_minor": 0
+   }
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
